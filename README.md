@@ -27,9 +27,10 @@
   </div>
 
  <div style="display: inline_block" align="center"><br>
-   <a target="_blank" href="https://www.linkedin.com/in/fernando-lara-701103119/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-   <a href=""><img src="" alt=""></a>
-   <a href=""><img src="" alt=""></a>
-   <a href=""><img src="" alt=""></a>
+   <a href="https://www.linkedin.com/in/fernando-lara-701103119/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+   <a href="https://www.instagram.com/fernando.lar4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+   <a href="https://www.twitch.tv/repolhoz"><img src="	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+  
+   <a href="https://steamcommunity.com/id/RepolhoZ/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
   
  </div>
