@@ -5,7 +5,7 @@
  <img align="right" alt="Repolho" height="150" src="https://media.discordapp.net/attachments/933812402229772338/933812571180498944/pogchamp.png">
 </div>
 
-### <em>(PT/BR)</em> Oi! Eu sou o Fernando! Formado em Publicidade e Propaganda pela PUC Minas, mas me apaixonei pelo mundo da programação. Desde então, sigo nessa jornada para me tornar um DEV cada vez mais completo!
+### <em>(PT/BR)</em> Oi! Meu nome é Fernando! Sou formado em Publicidade e Propaganda pela PUC Minas, mas me apaixonei pelo mundo da programação. Desde então, sigo nessa jornada para me tornar um DEV cada vez mais completo!
 ### <em>(EN)</em> Heyo! My name is Fernando and I have a degree in Advertising and Marketing but recentlly fell in love with the programming world. Each day I'm prouder to call myself a proper DEV!
 
 <br/> 
