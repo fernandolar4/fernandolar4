@@ -5,7 +5,8 @@
  <img align="right" alt="Repolho" height="150" src="https://media.discordapp.net/attachments/933812402229772338/933812571180498944/pogchamp.png">
 </div>
 
-### Oi! Eu sou o Fernando! Formado em Publicidade e Propaganda pela PUC Minas, mas descobri verdadeira paixão e vocação pela programação recentemente! Desde então cada dia me torno mais DEV e por aqui você consegue acompanhar essa jornada em primeira mão.
+### <em>(PT/BR)</em> Oi! Eu sou o Fernando! Formado em Publicidade e Propaganda pela PUC Minas, mas descobri verdadeira paixão e vocação pela programação recentemente! Desde então cada dia me torno mais DEV e por aqui você consegue acompanhar essa jornada em primeira mão.
+### <em>(EN)</em>
 <br/> 
 <br/> 
 <br/> 
