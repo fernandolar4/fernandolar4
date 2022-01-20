@@ -5,8 +5,8 @@
  <img align="right" alt="Repolho" height="150" src="https://media.discordapp.net/attachments/933812402229772338/933812571180498944/pogchamp.png">
 </div>
 
-### <em>(PT/BR)</em> Oi! Eu sou o Fernando! Formado em Publicidade e Propaganda pela PUC Minas, mas me apoxeinei pelo mundo da programação. Desde então sigo nessa jornada para me tornar um DEV cada vez mais completo!
-### <em>(EN)</em> Heyo! My name is Fernando and I'm graduated in Advertising and Marketing but recentlly fell in love with the programming world. Each day I'm prouder to call myself a proper DEV!
+### <em>(PT/BR)</em> Oi! Eu sou o Fernando! Formado em Publicidade e Propaganda pela PUC Minas, mas me apaixonei pelo mundo da programação. Desde então, sigo nessa jornada para me tornar um DEV cada vez mais completo!
+### <em>(EN)</em> Heyo! My name is Fernando and I have a degree in Advertising and Marketing but recentlly fell in love with the programming world. Each day I'm prouder to call myself a proper DEV!
 
 <br/> 
 <br/> 
@@ -25,3 +25,11 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
+
+ <div style="display: inline_block" align="center"><br>
+   <a href="https://www.linkedin.com/in/fernando-lara-701103119/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+   <a href=""><img src="" alt=""></a>
+   <a href=""><img src="" alt=""></a>
+   <a href=""><img src="" alt=""></a>
+  
+ </div>
