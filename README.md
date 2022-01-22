@@ -1,4 +1,4 @@
-# <em>Uai sô, você por aqui? </em>
+# <em>Uai sô, você por aqui? </em>    <img alt="MG" align="right" height="28" src="https://media.discordapp.net/attachments/933812402229772338/934433322002694144/14-minas-gerais-full4x.png?width=945&height=630">
 
 <br/>
 
