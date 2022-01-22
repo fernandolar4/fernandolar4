@@ -31,10 +31,9 @@
  <div style="display: inline_block" align="center"><br>
    <a href="https://www.linkedin.com/in/fernando-lara-701103119/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
    <a href="mailto:fmaia8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  
-   <a href="https://www.instagram.com/fernando.lar4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+   <a href="https://t.me/fernandolar4"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+
   <br/> 
-  
    <a href="https://www.twitch.tv/repolhoz"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
    <a href="https://steamcommunity.com/id/RepolhoZ/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
   
