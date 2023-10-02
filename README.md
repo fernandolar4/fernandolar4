@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <a  href="https://www.linkedin.com/in/fernando-lara-701103119/" >
+  <a  href="https://www.linkedin.com/in/fernando-lara-701103119/" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandolar4&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolar4&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
