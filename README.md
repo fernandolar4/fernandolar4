@@ -6,7 +6,7 @@
 </div>
 
 ### <em>(PT/BR)</em> Oi! Meu nome é Fernando! Sou formado em Publicidade e Propaganda pela PUC Minas, mas me apaixonei pelo mundo da programação. Desde então, sigo nessa jornada para me tornar um DEV cada vez mais completo!
-### <em>(EN)</em> Heyo! My name is Fernando and I have a degree in Advertising and Marketing but recentlly fell in love with the programming world. Each day I'm prouder to call myself a proper DEV!
+### <em>(EN)</em> Heyo! My name is Fernando and I have a degree in Advertising and Marketing but recently fell in love with the programming world. Each day I'm prouder to call myself a proper DEV!
 
 <br/> 
 <br/> 
@@ -14,9 +14,8 @@
 
 
 <div align="center">
-  <a  href="https://www.linkedin.com/in/fernando-lara-701103119/" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandolar4&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolar4&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://www.linkedin.com/in/fernando-lara-701103119/"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandolar4&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"></a>
+  <a href="https://github.com/fernandolar4"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolar4&layout=compact&langs_count=7&theme=chartreuse-dark"/></a>
 </div>
   
   <div style="display: inline_block" align="center"><br>
