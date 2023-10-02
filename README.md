@@ -1,12 +1,12 @@
-# <em>Uai sô, você por aqui? </em>    <img alt="MG" align="right" height="28" src="https://media.discordapp.net/attachments/933812402229772338/934433322002694144/14-minas-gerais-full4x.png?width=945&height=630">
+# Uai sô, você por aqui?   <img alt="MG" align="right" height="28" src="https://media.discordapp.net/attachments/933812402229772338/934433322002694144/14-minas-gerais-full4x.png?width=945&height=630">
 
 <br/>
 
  <img align="right" alt="Repolho" height="150" src="https://media.discordapp.net/attachments/933812402229772338/933812571180498944/pogchamp.png">
 </div>
 
-### <em>(PT/BR)</em> Oi! Meu nome é Fernando! Sou formado em Publicidade e Propaganda pela PUC Minas, mas me apaixonei pelo mundo da programação. Desde então, sigo nessa jornada para me tornar um DEV cada vez mais completo!
-### <em>(EN)</em> Heyo! My name is Fernando and I have a degree in Advertising and Marketing but recently fell in love with the programming world. Each day I'm prouder to call myself a proper DEV!
+###  (PT/BR)  Oi! Meu nome é Fernando! Sou formado em Publicidade e Propaganda pela PUC Minas, mas me apaixonei pelo mundo da programação. Desde então, sigo nessa jornada para me tornar um DEV cada vez mais completo!
+### < (EN)  Heyo! My name is Fernando and I have a degree in Advertising and Marketing but recently fell in love with the programming world. Each day I'm prouder to call myself a proper DEV!
 
 <br/> 
 <br/> 
